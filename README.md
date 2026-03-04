@@ -8,6 +8,8 @@ https://mr-danix.github.io/Football/
 
 Team list and Achievement
 
+Hover effects by CSS
+
 Interactive JavaScript effects (like filtering teams )
 
 🛠 Tech Used
