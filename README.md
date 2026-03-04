@@ -6,13 +6,9 @@ https://mr-danix.github.io/Football/
 
 🚀 Features
 
-Team list and logos
+Team list and Achievement
 
-Player stats and positions
-
-Match results overview
-
-Interactive JavaScript effects (like filtering teams or players)
+Interactive JavaScript effects (like filtering teams )
 
 🛠 Tech Used
 HTML, CSS, JavaScript
