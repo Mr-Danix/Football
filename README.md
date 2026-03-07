@@ -15,4 +15,9 @@ Hover effects by CSS
 Interactive JavaScript effects (like filtering teams )
 
 🛠 Tech Used
+
 HTML, CSS, JavaScript
+
+## 🤝 Contributing
+
+Feel free to fork the repo, create issues, or submit pull requests. Suggestions and improvements are always welcome!
