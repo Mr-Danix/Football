@@ -2,7 +2,7 @@
 
 A website giving a simple, interactive overview of football teams, players, and stats.
 
-🌍 Live Demo        
+🌍 Live Demo                  
 
 https://mr-danix.github.io/Football/
 
